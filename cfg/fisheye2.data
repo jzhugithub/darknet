@@ -1,0 +1,6 @@
+classes= 2
+train  = /home/zj/database_temp/voc_2012/VOCdevkit/VOC2007/image_list_train_origin.txt
+valid  = /home/zj/database_temp/voc_2012/VOCdevkit/VOC2007/image_list_val.txt
+names = data/fisheye2.names
+backup = backup
+
